@@ -1,7 +1,6 @@
 # WebGIS9A_PersebaranCafe
 WebGIS Persebaran Cafe di Sekitar Area Universitas Diponegoro 
-Link WebGIS: https://bit.ly/WebGIS9A_PersebaranCafe
-
+Link WebGIS: https://andinityas.github.io/WebGIS9A_PersebaranCafe/
 Link Source Code :https://github.com/andinityas/WebGIS9A_PersebaranCafe/
 
 Nama Anggota Kelompok 9A:
